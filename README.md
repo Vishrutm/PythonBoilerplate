@@ -6,9 +6,9 @@ I keep forgetting how to do things in Python. This module helps in quick setup. 
 
 ## Public Functions
 
-| Name | Short Description |
-| ----------- | ----------- |
-| New-PythonPackage | Creates boilerplate package directory for Python Packages as defined in https://packaging.python.org/en/latest/tutorials/packaging-projects/ |
+| Name | Short Description | Full Documentation |
+| ----------- | ----------- | ----------- |
+| New-PythonPackage | Creates boilerplate package directory for Python Packages as defined in https://packaging.python.org/en/latest/tutorials/packaging-projects/ | [Documentation](/Docs/New-PythonPackage.md)
 
 
 ## Notes
