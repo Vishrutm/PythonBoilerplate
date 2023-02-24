@@ -8,7 +8,7 @@ I keep forgetting how to do things in Python. This module helps in quick setup. 
 
 | Name | Short Description | Full Documentation |
 | ----------- | ----------- | ----------- |
-| New-PythonPackage | Creates boilerplate package directory for Python Packages as defined in https://packaging.python.org/en/latest/tutorials/packaging-projects/ | [Documentation](/PythonBoilerplate/Docs/New-PythonPackage.md)
+| New-PythonPackage | Creates boilerplate package directory for Python Packages as defined in https://packaging.python.org/en/latest/tutorials/packaging-projects/ | [Documentation](/Docs/New-PythonPackage.md)
 
 
 ## Notes
